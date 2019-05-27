@@ -65,7 +65,6 @@ typings/
 .DS_Store
 
 # generated web content
-pub*
 *.zip
 *.tar
 *.tar.gz
