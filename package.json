@@ -1,0 +1,18 @@
+{
+    "name": "jam-1",
+    "version": "0.0.1",
+    "description": "collider.jam game project",
+    "keywords": "collider,jam,mod,game engine,game framework,game jam",
+    "scripts": {
+        "start": "node ./node_modules/collider.jam/jam.js"
+    },
+    "dependencies": {
+        "collider-boot.mix": "git+https://github.com/invider/collider-boot.mix.git",
+        "collider-ext.mix": "git+https://github.com/invider/collider-ext.mix.git",
+        "collider-lib.mix": "git+https://github.com/invider/collider-lib.mix.git",
+        "collider.jam": "git+https://github.com/invider/collider.jam.git",
+        "collider.mix": "git+https://github.com/invider/collider.mix.git"
+    },
+    "author": "",
+    "license": "MIT"
+}

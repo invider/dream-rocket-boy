@@ -1,0 +1,18 @@
+#STORY=story_level1
+^^^SETTINGS^^^
+            bbb
+          bbbbbbb
+       bbbbwbwbwbbbb
+    bbbbbbbbbbbbbbbbbbb
+   bwwwwwbwwwwwwwwbwwwwb
+  bmu#utuu|||uuuuuutu#u@b
+ b********|||************b
+bb|||||||*||||*||||||||||bb
+iw||||w||||||||||w|w|w|||wi
+ibmu||uuuutuuu||uuuuuuutubi
+ib**||********||**********i
+ib|||||||*|||||||*UUUUUUU*i
+iw|||w|||||||w|||UUUUUUUUwi
+ibutuuuuu*uuuuuuu*UUUUUUU*i
+i*************************i
+

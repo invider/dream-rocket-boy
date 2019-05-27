@@ -1,0 +1,15 @@
+{
+	"FONT": "kenney-rocket-square",
+    "G": 25,
+    "JUMP":15,
+    "SPEED": 12,
+    "MAX_IMAGINATION": 100,
+    "IMAGINATION_BAR": 0.5,
+    "DAY_LENGTH": 15,
+    "METEOR_INIT_FQ": 0.3,
+    "METEOR_DAY_FQ_INCREASE": 1.3,
+    "METEOR_HIT_FACTOR": 3,
+    "RUBY_MAX_VALUE": 10,
+    "RUBY_MIN_VALUE": 0.5,
+    "RUBY_VALUE_REDUCE_FACTOR": 0.2
+}
