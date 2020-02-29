@@ -11,7 +11,7 @@ module.exports = {
     value: env.tuning.MAX_IMAGINATION,
 
     supply: function(v) {
-        this.value = lib.math.limitedAdd(this.value, v, env.MAX_IMAGINATION)
+        this.value = min(this.value + v, env.MAX_IMAGINATION)
         return this.value
     },
 

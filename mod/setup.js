@@ -84,9 +84,11 @@ module.exports = function() {
     
     env.day = 1
 
+    /*
     if (!env.debug) {
         // hide and pause debug mod
         mod.debug.paused = true
         mod.debug.hidden = true
     }
+    */
 }
