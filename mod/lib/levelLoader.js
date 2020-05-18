@@ -50,8 +50,8 @@ let LevelLoader = {
                     type = typeMap[symbol].proto;
                     sys.augment(params, typeMap[symbol].params);
                 }
-                params.name = params.name || this.formatName(type);
-                sys.spawn(type, params, "camera");
+                params.kind = params.name || this.formatName(type);
+                lab.camera.spawn(type, params);
             } else {
                 log.err('unable to map symbol: ' + symbol)
             }
